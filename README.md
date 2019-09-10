@@ -12,6 +12,7 @@ of the tile placed there. Using variable names Al… A9… I1… I9, the board a
 I give value zero to a tile that has not yet been filled.
 
 II.Backtracking Algorithm
+
 I implement backtracking search using the minimum remaining value heuristic and apply forward checking to reduce variables domains. I test my program on sudokus_start.txt.
 
 III.My code
